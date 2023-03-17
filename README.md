@@ -96,6 +96,6 @@ table that breaks down school performance based on type of school (district or c
 
 ## Observable Trends:
 
-*On average, charter schools tend to have higher math and reading scores as well as percent passing math, reading, and overall. 
+* On average, charter schools tend to have higher math and reading scores as well as percent passing math, reading, and overall. 
 
-*Suprisingly, the more a school spends per student, the lower scores are in every category. 
+* Suprisingly, the more a school spends per student, the lower scores are in every category. 
