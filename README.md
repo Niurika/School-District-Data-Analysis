@@ -40,6 +40,8 @@ DataFrame that summarizes key metrics about each school, including the following
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+<img width="1109" alt="Screen Shot 2023-03-17 at 2 33 58 AM" src="https://user-images.githubusercontent.com/110379358/225841440-8e423609-b016-4ec4-a67d-b049138e45ac.png">
+
 ### Highest-Performing Schools (by % Overall Passing)
 
 DataFrame that highlights the top 5 performing schools based on % Overall Passing. Includes the following metrics:
@@ -55,6 +57,7 @@ DataFrame that highlights the top 5 performing schools based on % Overall Passin
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+<img width="1106" alt="Screen Shot 2023-03-17 at 2 34 48 AM" src="https://user-images.githubusercontent.com/110379358/225841590-d0d8c913-05fb-4852-8e13-e0d294d2abec.png">
 
 ### Lowest-Performing Schools (by % Overall Passing)
 
@@ -71,13 +74,19 @@ DataFrame that highlights the bottom 5 performing schools based on % Overall Pas
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+<img width="1101" alt="Screen Shot 2023-03-17 at 2 35 31 AM" src="https://user-images.githubusercontent.com/110379358/225841798-56464c03-31cc-46dd-96df-cd63c86933e7.png">
+
 ### Math Scores by Grade
 
 DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+<img width="485" alt="Screen Shot 2023-03-17 at 2 39 37 AM" src="https://user-images.githubusercontent.com/110379358/225842395-e3a1dede-cd54-4a79-9317-80030bf2e040.png">
+
 ### Reading Scores by Grade
 
 DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+<img width="479" alt="Screen Shot 2023-03-17 at 2 40 01 AM" src="https://user-images.githubusercontent.com/110379358/225842459-1154655f-06d2-48b5-947b-e2ae27740f91.png">
 
 ### Scores by School Spending
 
@@ -89,11 +98,17 @@ table that breaks down school performance based on average spending ranges (per 
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+<img width="869" alt="Screen Shot 2023-03-17 at 2 40 51 AM" src="https://user-images.githubusercontent.com/110379358/225842609-0fb4f8ca-1840-44b9-833e-1dca8f39df4e.png">
+
 ### Scores by School Size
 table that breaks down school performance based on school size (small, medium, or large).
 
+<img width="801" alt="Screen Shot 2023-03-17 at 2 42 38 AM" src="https://user-images.githubusercontent.com/110379358/225842899-c8752ca1-a728-4816-92c2-5da1430822e4.png">
+
 ### Scores by School Type
 table that breaks down school performance based on type of school (district or charter).
+
+<img width="751" alt="Screen Shot 2023-03-17 at 2 43 10 AM" src="https://user-images.githubusercontent.com/110379358/225843029-6087ec09-77c8-43fb-8e10-0488b46d4e41.png">
 
 ## Observable Trends:
 
