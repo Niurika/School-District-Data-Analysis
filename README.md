@@ -4,8 +4,9 @@
 The goal is to analyze the district-wide standardized test results. Data is given regarding every student's math and reading scores, as well as various information on the schools they attend. The task is to aggregate the data to showcase obvious trends in school performance.
 
 ## Resources 
-   *schools_complete.csv: school ID, school_name, type ,size, budget
-   *students_complete.csv: Student ID, student_name, gender, grade, school_name, reading_score, math_score
+   * schools_complete.csv: school ID, school_name, type ,size, budget
+   
+   * students_complete.csv: Student ID, student_name, gender, grade, school_name, reading_score, math_score
 
 ## DataFrames: 
 
