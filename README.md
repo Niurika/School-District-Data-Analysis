@@ -23,6 +23,7 @@ High-level snapshot, in a DataFrame, of the district's key metrics, including th
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+<img width="936" alt="Screen Shot 2023-03-17 at 2 15 03 AM" src="https://user-images.githubusercontent.com/110379358/225841031-37c9c62c-187f-45c7-9a85-f73bb68069c5.png">
 
 ### School Summary
 
