@@ -8,10 +8,10 @@ The goal is to analyze the district-wide standardized test results. Data is give
    
    * students_complete.csv: Student ID, student_name, gender, grade, school_name, reading_score, math_score
 
-##Built With:
-  *Jupyter Notebook
-  *Python
-  *Pandas
+## Built With:
+  * Jupyter Notebook
+  * Python
+  * Pandas
   
 ## DataFrames: 
 
